@@ -22,4 +22,4 @@ there are four folders available that contain **data**, **code**, **figures** an
 i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/vignettes/jSDM.html) using the binomial probit in the long format, where
 
 **ecological process:**
-$$ y_{ij} = Bernoulli(\theta_{ij})$$
+$$y_{ij} = Bernoulli(\theta_{ij})$$
