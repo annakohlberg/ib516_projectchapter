@@ -23,3 +23,5 @@ i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/
 
 **ecological process:**
 $$ y_{ij} = Bernoulli(\theta_{ij})$$
+
+trial text
