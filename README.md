@@ -2,7 +2,7 @@
 working project on developing code &amp; organizational structure for chapter two of my thesis: *Using Passive Acoustic Monitoring to Map Biodiversity in the Pacific Northwest*
 
 ## project workflow
-![project workflow](figures\ORTWS_Poster.png)
+![project workflow](figures/ORTWS_Poster.png)
 
 ## objectives
 the forested ecosystems of the pacific northwest contain some of the oldest, largest trees on earth and are home to a suite of species that depend on theses structures for all or part of their life history...
@@ -23,5 +23,3 @@ i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/
 
 **ecological process:**
 $$ y_{ij} = Bernoulli(\theta_{ij})$$
-
-trial text
