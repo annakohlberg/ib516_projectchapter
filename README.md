@@ -26,4 +26,5 @@ to reproduce the code provided in this repo, data must be configured to a 'wide'
 i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/vignettes/jSDM.html) using the binomial probit in the long format, where
 
 **ecological process:**
+
 $$ y_{ij} = Bernoulli(\theta_{ij})$$
