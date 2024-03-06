@@ -19,11 +19,11 @@ there are four folders available that contain **data**, **code**, **figures** an
 
 - the [manuscript](manuscript) folder has a copy of the working manuscript for this thesis chapter 
 
+## reproducibility
+to reproduce the code provided in this repo, data must be configured to a 'wide' format and following the *meta guidelines* provided in the code folder. 
+
 ## joint species distribution model (jSDM)
 i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/vignettes/jSDM.html) using the binomial probit in the long format, where
 
 **ecological process:**
 $$ y_{ij} = Bernoulli(\theta_{ij})$$
-
-## reproducibility
-to reproduce the code provided in this repo, data must be configured to a 'wide' format and following the *meta guidelines* provided in the code folder. 
