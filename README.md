@@ -23,7 +23,7 @@ there are four folders available that contain **data**, **code**, **figures** an
 to reproduce the code provided in this repo, data must be configured to a 'wide' format and following the *meta guidelines* provided in the code folder. 
 
 ## joint species distribution model (jSDM)
-i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/vignettes/jSDM.html) using the binomial probit in the long format, where
+i will be performing a [jSDM in R](https://cran.r-project.org/web/packages/jSDM/vignettes/jSDM.html) using the binomial probit in the wide format, where
 
 **ecological process:**
 
